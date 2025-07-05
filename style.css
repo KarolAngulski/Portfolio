@@ -1,0 +1,22 @@
+body{
+    background-color: #cecaca;
+}
+header{
+    text-align: center;
+    font-family: Monospace, monospace;
+    font-size: 6dvh;
+    padding-top: 0.5dvh
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70dvw;
+    height: calc(70dvw/ 1.75);
+}
+/*@media screen and (max-width: 600px) {
+    iframe {
+        width: 90dvw;
+        height: 200px;
+    }
+}
